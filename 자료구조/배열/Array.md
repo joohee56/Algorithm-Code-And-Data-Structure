@@ -21,7 +21,6 @@
 ### 문자열: 특별한 1차원 배열
 문자열은 1차원 배열의 한 종류로 `char`형의 요소를 갖는 배열을 의미한다.     
     
-![image](https://github.com/joohee56/Algorithm-Code-And-Data-Structure/assets/83942393/016823a9-b6d7-48fd-9762-878db1f14005)     
 </br>
 </br>
 
