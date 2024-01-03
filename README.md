@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td>배열</td>
-    <td>Array</td>
+    <td><a href="자료구조/배열/Array.md">Array</a></td>
   </tr>
   </tr>
 </table>
