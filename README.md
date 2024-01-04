@@ -5,7 +5,7 @@
 ## 자료구조
 ### 선형 자료 구조
 * <a href="자료구조/Array.md">배열(Array)</a>
-* <a href="자료구조/Stack.md">스택(Stack)</a>
+* <a href="자료구조/스택/Stack.md">스택(Stack)</a>
 * 큐
 * 연결 리스트
 * 벡터
