@@ -1,4 +1,4 @@
-## 미로찾기 (DFS)
+## 미로찾기 (DFS, Depth First Search : 깊이 우선 탐색)
 ### 유사코드
 ```
 searchExit()
