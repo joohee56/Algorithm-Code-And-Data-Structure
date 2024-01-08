@@ -36,8 +36,8 @@
 * set(i, e) : `O(1)` (대체)
 * remove(i) : `O(n)`
 * remove(o) : `O(n)`
-* get : `O(1)`
-* Contains : `O(n)`
+* get(i) : `O(1)`
+* Contains(e) : `O(n)`
 * iterator.remove : `O(n)`
 
 **특징**
