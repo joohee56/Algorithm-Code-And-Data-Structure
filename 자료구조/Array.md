@@ -31,14 +31,14 @@
 </br>
 
 ### JAVA ArrayList 시간복잡도
-* add(e) : `O(1)` (맨뒤 삽입)
-* add(i, e) : `O(n)` (중간 삽입)
-* set(i, e) : `O(1)` (대체)
-* remove(i) : `O(n)`
-* remove(o) : `O(n)`
-* get(i) : `O(1)`
-* Contains(e) : `O(n)`
-* iterator.remove : `O(n)`
+* `add(e)` : `O(1)` (맨뒤 삽입)
+* `add(i, e)` : `O(n)` (중간 삽입)
+* `set(i, e)` : `O(1)` (대체)
+* `remove(i)` : `O(n)`
+* `remove(o)` : `O(n)`
+* `get(i)` : `O(1)`
+* `contains(e)` : `O(n)`
+* `iterator.remove` : `O(n)`
 
 **특징**
 * 데이터 추가, 삭제를 위해 임시 배열을 생성해 데이터를 복사한다.
