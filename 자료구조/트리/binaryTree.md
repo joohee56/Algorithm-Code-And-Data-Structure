@@ -11,7 +11,7 @@
 
 ## 이진트리 분류
 ### 1) 포화 이진트리(full binary tree)
-<img src="https://github.com/joohee56/Algorithm-Code-And-Data-Structure/assets/83942393/6a9f0ded-2a67-4b7d-8bc0-cc26bf13f3b4" width="50%"/>    
+<img src="https://github.com/joohee56/Algorithm-Code-And-Data-Structure/assets/83942393/6a9f0ded-2a67-4b7d-8bc0-cc26bf13f3b4" width="40%"/>    
 
 * 각 레벨에 노드가 꽉 차있는 이진트리를 말한다. 즉, 높이 k인 포화 이진트리는 정확하게 2^k-1개의 노드를 가진다.
 * 포화 이진트리에서는 각 노드에 번호를 붙일 수 있는데, 왼쪽에서 오른쪽으로 번호를 붙인다. 그리고 이 번호는 항상 일정하다. 즉, 루트 노드의 오른쪽 자식 노드의 번호는 항상 3이다.
