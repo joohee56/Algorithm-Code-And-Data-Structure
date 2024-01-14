@@ -53,9 +53,10 @@ while que.isEmpty() != TRUE do
     queue.enqueue(LEFT(x));
     queue.enqueue(RIGHT(x));
 ```
+</br>
 
 ## 이진트리 연산
-* 트리의 노드 개수 구하기
+* `트리의 노드 개수 구하기`
 ```C++
 int getCont() {
     return isEmpty() ? 0 : getCount(root);
@@ -69,7 +70,7 @@ int getCount(BinaryNode* node) {
 }
 ```
 
-* 단말 노드 개수 구하기
+* `단말 노드 개수 구하기`
 ```C++
 int getLeafCount() {
   return isEmpty() ? 0 : getLeafCount(root);
@@ -86,17 +87,18 @@ int getLeafCount(BinaryNode* node) {
     }
 }
 ```
-* 높이 구하기 : 마찬가지로 순환을 통해 왼쪽 서브트리와 오른쪽 서브트리의 높이ㅡㄹ 구한 후 둘 중 높은 값을 반환한다.
+* `높이 구하기` : 마찬가지로 순환을 통해 왼쪽 서브트리와 오른쪽 서브트리의 높이를 구한 후 둘 중 높은 값을 반환한다.
 ```C++
 int getHeight() {
-    return isEmpty()? 0 : getHeight(root);
+      return isEmpty()? 0 : getHeight(root);
 }
 
 int getHeight(BinaryNode* node) {
-  if(node == NULL) {
-      rteurn 0;
-  int hLeft = getHeight(node->getLeft());
-  int hRight = getHeight(node->getRight());
-  return (hLeft > hRight) ? hLeft+1 : hRight+1;
+    if(node == NULL) {
+        return 0;
+    |
+    int hLeft = getHeight(node->getLeft());
+    int hRight = getHeight(node->getRight());
+    return (hLeft > hRight) ? hLeft+1 : hRight+1;
 }
 ```
