@@ -66,7 +66,7 @@ int getCount(BinaryNode* node) {
     if(node == NULL) {
       return 0;
     }
-    return 1 + getCount(node -> getLeft()) + getCount(node -> getRight());
+    return 1 + getCount(node->getLeft()) + getCount(node->getRight());
 }
 ```
 
