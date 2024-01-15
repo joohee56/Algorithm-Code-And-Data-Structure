@@ -15,10 +15,9 @@
 ### 비선형 자료구조
 * 트리
   * <a href="자료구조/트리/binaryTree.md">이진트리(BinaryTree)</a>   
-  * 이진탐색트리
+  * <a href="자료구조/트리/binarySearchTree.md">이진탐색트리(BinarySearchTree)</a>
+* 힙(우선순위 큐)
 * 그래프 (MST, 최단경로)
-* 힙
-* 우선순위큐
 * 맵
 * 셋
 * 해시 테이블
