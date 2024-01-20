@@ -17,7 +17,7 @@
   * <a href="자료구조/트리/binaryTree.md">이진트리(BinaryTree)</a>   
   * <a href="자료구조/트리/binarySearchTree.md">이진탐색트리(BinarySearchTree)</a>
   * <a href="자료구조/priorityQueue(heap).md">우선순위 큐(PriorityQueue), 힙(Heap)</a>
-* 해시
+* <a href="자료구조/해시.md">해시</a>
 * 그래프 (MST, 최단경로)
 </br>
 
