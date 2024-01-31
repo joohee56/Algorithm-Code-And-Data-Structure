@@ -22,11 +22,11 @@
 </br>
 
 ## 알고리즘
-* 정렬
-  * [위상 정렬(topological sort)](알고리즘/topologicalsort.md)
-* 최소 신장 트리(MST)
-  * [크루스칼(Kruskal)](알고리즘/MST/kruskal.md)
-  * 프림(Prim)
-* 최단 경로
+### 정렬
+* [위상 정렬(topological sort)](알고리즘/topologicalsort.md)
+### 최소 신장 트리(MST)
+* [크루스칼(Kruskal)](알고리즘/MST/kruskal.md)
+* 프림(Prim)
+### 최단 경로
   * 다익스트라(Dijkstra)
   * 플로이드(Floyd) 
