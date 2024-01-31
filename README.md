@@ -23,6 +23,6 @@
 
 ## 알고리즘
 * 정렬
-  * 위상 정렬(topological sort)
+  * [위상 정렬(topological sort)](알고리즘/topologicalsort.md)
 * 재귀
 * 탐색
