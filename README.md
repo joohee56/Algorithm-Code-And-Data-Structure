@@ -1,5 +1,5 @@
-# Algorithm-Code-Data-Structure
-알고리즘 기초 코드와 자료구조 저장소입니다.    
+# Data-Structure-And-Algorithm-Code
+자료구조와 알고리즘 기초 코드 저장소입니다.    
 </br>
 
 * [Java Collection 시간 복잡도 / 특징 정리](https://www.grepiu.com/post/9)
