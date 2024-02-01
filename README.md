@@ -9,7 +9,7 @@
 ### 선형 자료 구조
 * <a href="자료구조/Array.md">배열(Array)</a>
 * <a href="자료구조/스택/Stack.md">스택(Stack)</a>
-* <a href="자료구조/큐/Queue.md">큐(Queue)</a>
+* <a href="자료구조/큐/Queue.md">큐(Queue), 덱(Deque)</a>
 * <a href="자료구조/연결리스트/연결리스트.md">연결 리스트(LinkedList)</a>
 
 ### 비선형 자료구조
