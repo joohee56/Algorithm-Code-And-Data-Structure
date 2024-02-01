@@ -32,13 +32,13 @@ void Dijkstra() {
 }
 
 class Vertex implements Comparable<Vertex> {
-  int no;
-  int minDist;
-
-  @Override
-  pubilc int compareTo(Vertex v) {
-    return Integer.compare(this.minDist, v.minDist);
-  }
+      int no;
+      int minDist;
+    
+      @Override
+      pubilc int compareTo(Vertex v) {
+        return Integer.compare(this.minDist, v.minDist);
+      }
 } 
 ```
 </br>
