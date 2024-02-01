@@ -28,6 +28,6 @@
 * [크루스칼(Kruskal)](알고리즘/MST/kruskal.md)
 * [프림(Prim)](알고리즘/MST/prim.md)
 ### 최단 경로
-  * 다익스트라(Dijkstra)
+  * [다익스트라(Dijkstra)](알고리즘/dijkstra.md)
   * 플로이드(Floyd)
   * 벨만 포드(Bellman-ford)
