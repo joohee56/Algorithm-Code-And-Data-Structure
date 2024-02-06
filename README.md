@@ -24,7 +24,7 @@
 ## 알고리즘
 ### 정렬
 * [삽입 정렬(insertion sort)](알고리즘/Sort/insertionSort.md)
-* 병합 정렬
+* [병합 정렬(merge sort)](알고리즘/Sort/mergeSort.md)
 * 힙 정렬
 * [위상 정렬(topological sort)](알고리즘/Sort/topologicalsort.md)
 * 계수 정렬
