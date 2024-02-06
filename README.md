@@ -26,7 +26,7 @@
 * 삽입 정렬
 * 병합 정렬
 * 힙 정렬
-* [위상 정렬(topological sort)](알고리즘/topologicalsort.md)
+* [위상 정렬(topological sort)](알고리즘/Sort/topologicalsort.md)
 * 계수 정렬
 ### 최소 신장 트리(MST)
 * [크루스칼(Kruskal)](알고리즘/MST/kruskal.md)
